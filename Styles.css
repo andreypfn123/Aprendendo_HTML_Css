@@ -1,4 +1,4 @@
-.conteiner{
+.btn{
     display: flex;
     justify-content: center;
     margin-top: 250px;
@@ -6,7 +6,7 @@
 }
 
 
-.caixa {
+.btn{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -23,6 +23,6 @@
     transition: top ease 0.5s;
 }
 
-.caixa:hover {
+.btn:hover {
     top: -50px;
 }
