@@ -17,10 +17,12 @@
     height: 400px;
     background-color: white;
     border: 1px solid rgb(59, 58, 58,0.46);
-    border-radius: 20px;
+    border-radius: 50px;
     box-shadow: -10px 5px 10px gray;
     top: 0;
-    transition: top ease 0.5s;
+    transition: top ease 1s;
+    user-select: none;
+    cursor: pointer;
 }
 
 .btn:hover {
