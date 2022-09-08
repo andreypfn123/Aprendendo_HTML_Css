@@ -6,7 +6,7 @@
 }
 
 
-.box {
+.caixa {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -23,6 +23,6 @@
     transition: top ease 0.5s;
 }
 
-.box:hover {
+.caixa:hover {
     top: -50px;
 }
